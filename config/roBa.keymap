@@ -87,7 +87,7 @@
         SYMBOLS {
             bindings = <
 &kp EXCL              &kp AT  &kp HASH  &kp DLLR  &kp PRCNT                      &kp CARET         &kp AMPS           &kp STAR       &kp LPAR  &kp RPAR
-&kp GRAVE             &trans  &trans    &trans    &trans     &trans      &trans  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp SEMICOLON  &kp SQT   &kp NON_US_BACKSLASH
+&kp GRAVE             &trans  &trans    &trans    &trans     &trans      &trans  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp SEMICOLON  &kp SQT   &kp BACKSLASH
 &mt LEFT_SHIFT TILDE  &trans  &trans    &trans    &trans     &trans      &trans  &kp LBRC          &kp RBRC           &kp COLON      &kp DQT   &kp PIPE
 &trans                &trans  &trans    &trans    &trans     &trans      &trans  &trans                                                        &trans
             >;
